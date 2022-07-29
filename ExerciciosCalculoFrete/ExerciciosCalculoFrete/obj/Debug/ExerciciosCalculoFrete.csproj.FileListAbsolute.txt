@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.Form1.resources
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\bin\Debug\ExerciciosCalculoFrete.exe.config
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\bin\Debug\ExerciciosCalculoFrete.exe
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\bin\Debug\ExerciciosCalculoFrete.pdb
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.exe
+C:\Users\Aluno\Desktop\Gabriel\fontesC#\ExerciciosCalculoFrete\ExerciciosCalculoFrete\obj\Debug\ExerciciosCalculoFrete.pdb
